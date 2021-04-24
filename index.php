@@ -1,7 +1,7 @@
 <? php
 
 echo "ola mundo!!";
-echo "tudo doido";
+echo "não esta não";
 
 ?>
 <? php
